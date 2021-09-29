@@ -1,4 +1,6 @@
 # Web Projects
 
-<a href="https://www.w3schools.com/">Visit youuuu</a> 
+<a href="https://aarends.github.io/cornershadows/">Corner Shadows</a> 
+<a href="https://aarends.github.io/dragdrop/">Drag & Drop</a> 
+<a href="https://aarends.github.io/webstorage/">Web Storage</a> 
 
