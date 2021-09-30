@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Form Validator</title>
+	<script type="text/javascript">
+
+		function validator(){
+		if (document.tutuForm.thebox.checked)
+			alert("Yes it is checked");
+		else
+			alert("No, it is not checked");
+		}
+		
+	</script>
+</head>
+
+<body>
+
+<form name="tutuForm">
+	<input type="checkbox" name="thebox" />
+	<input type="button" value="Press me!" onclick="validator()" />
+</form>
+
+</body>
+</html> 
